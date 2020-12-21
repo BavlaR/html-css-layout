@@ -8,9 +8,9 @@ Quick start: clone the project
 
 The tech stack is:
 
- HTML5 
- CSS3 
- sass(SCSS) 
- BEM
+-HTML5 
+-CSS3 
+-sass(SCSS) 
+-BEM
 
 Author: Vladimir Baisen
